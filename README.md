@@ -32,7 +32,7 @@ This is the **frontend application** for the Book Search App. It allows users to
 
 ## Setup Instructions
 
-### Commands (single copy-paste block)
+### Commands
 ```bash
 # Clone the repository
 git clone https://github.com/tarunupadhayay/book-search-frontend.git
@@ -59,4 +59,6 @@ yarn build
 # Contributing workflow
 git checkout -b feature/feature-name
 git commit -m "Add new feature"
-git push origin feature/feature-name
+git push origin feature/feature-name```
+
+## Folder Structure
