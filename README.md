@@ -61,4 +61,4 @@ git checkout -b feature/feature-name
 git commit -m "Add new feature"
 git push origin feature/feature-name```
 
-## Folder Structure
+## Folder
