@@ -61,4 +61,38 @@ git checkout -b feature/feature-name
 git commit -m "Add new feature"
 git push origin feature/feature-name```
 
-## Folder
+
+# 📚 Book Search Backend (Node.js + Elasticsearch)
+
+A simple backend built with **Node.js**, **Express**, and **Elasticsearch** for searching books by title, author, and category.  
+It supports **fuzzy search**, **phonetic search**, and **aggregations** by author and publication year.
+
+---
+
+## 🚀 Features
+
+- Full-text search across book titles and authors  
+- Optional filters for category and author  
+- Fuzzy search (handles typos automatically)  
+- Phonetic search (matches words that sound similar)  
+- Aggregations by author and year of publication  
+- Pagination support for search results  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Node.js**  
+- **Express.js**  
+- **Elasticsearch**
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/<your-username>/book-search-backend.git
+cd book-search-backend
+
